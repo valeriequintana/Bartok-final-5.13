@@ -1,2 +1,1 @@
-# Bartok final version.
-So many bugs.. but fixed and finalized.
+# Bartok with errors - 5.13
